@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Devicons';
+    src: url('devicon.eot?#iefix') format('embedded-opentype'),
+         url('devicon.woff2') format('woff2'),
+         url('devicon.woff') format('woff'),
+         url('devicon.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* CSS classes for the icons */
+  .devicon-html5-plain:before { content: "\e604"; }
+  .devicon-css3-plain:before { content: "\e601"; }
+  .devicon-javascript-plain:before { content: "\e606"; }
+  /* ... and so on */
+  
+  /* Additional CSS styles for the icons if needed */
+  
