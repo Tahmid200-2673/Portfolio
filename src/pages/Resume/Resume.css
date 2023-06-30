@@ -1,0 +1,15 @@
+.resume-line {
+    border: none; 
+    border: 1px solid #ccc;
+     margin: 20px 400px 20px 400px; 
+  }
+  .content-margin {
+    margin: 20px;
+  }
+  content-heading{
+    /* margin-left: 20px; */
+  }
+  .content-container {
+    margin: 20px;
+  }
+  
