@@ -13,6 +13,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "animate.css": "^4.1.1",
     "devicon": "^2.15.1",
     "devicon-react-svg": "^0.2.4",
     "framer-motion": "^10.12.17",
@@ -21,8 +22,11 @@
     "particles.js": "^2.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-pdf": "^7.1.2",
     "react-router-dom": "^6.14.0",
     "react-tilt": "^1.0.2",
+    "react-type-animation": "^3.1.0",
+    "react-typewriter-effect": "^1.1.0",
     "sort-by": "^1.2.0"
   },
   "devDependencies": {

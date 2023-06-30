@@ -4,4 +4,7 @@
           
         
   }
-  
+  .nextjs-icon {
+        width: 50px;
+        height:48px; /* Set your desired width here */
+      }

@@ -1,0 +1,67 @@
+
+
+
+
+
+.welcome-text {
+    /* font-size: 2.1em; */
+    font-size: 2.6rem; /* 36px */
+    line-height: 2.5rem; /* 40px */
+    font-weight: bold;
+    color: #fff;
+    animation: fade-in 1s ease-in-out;
+  }
+
+  .typewriter-text {
+    font-size: 0.82em;
+     /* color: #e100ff;  */
+    display: inline-block;
+    position: relative;
+  }
+  .typewriter-text .text-color-matcher {
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+     background: linear-gradient(45deg, #041cf5, #fd0707);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+     /* TEXT GRADIENT color: #d25a27; background-image: -webkit-linear-gradient(45deg, #041cf5 45%,  #06274b 30%,#fd0707 54%); background-clip: text; -webkit-background-clip: text; text-fill-color: transparent; -webkit-text-fill-color: transparent; */
+  }
+  
+  
+  .gradient-text {
+    /* background: linear-gradient(45deg, #ff9a9e, #fad0c4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+       /* TEXT GRADIENT*/ color: #d25a27; background-image: -webkit-linear-gradient(45deg, #d25a27 45%, #b6dcc2 54%, #06274b 150%); background-clip: text; -webkit-background-clip: text; text-fill-color: transparent; -webkit-text-fill-color: transparent;
+
+  }
+
+ 
+  
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  @media only screen and (min-width: 688px) and (max-width: 992px){
+    .welcome-text {
+      font-size: 2rem;
+      font-weight: bold;
+      color: #fff;
+      animation: fade-in 1s ease-in-out;
+    }
+  }
+  @media  only screen and (max-width: 688px) {
+    .welcome-text {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #fff;
+      animation: fade-in 1s ease-in-out;
+    }
+  }  
