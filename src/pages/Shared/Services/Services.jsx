@@ -34,7 +34,7 @@ const Services = () => {
           {services.map((service, index) => (
             <div
               key={index}
-              className="bg-slate-800 p-6 rounded shadow text-base-content flex flex-col items-center"
+              className="bg-slate-800 text-[#a6adba] p-6 rounded shadow flex flex-col items-center"
             >
               <FontAwesomeIcon icon={service.icon} size="3x" className="mb-4" />
               <h3 className="text-xl font-semibold mb-2">{service.title}</h3>

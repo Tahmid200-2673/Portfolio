@@ -51,17 +51,31 @@
   }
   @media only screen and (min-width: 688px) and (max-width: 992px){
     .welcome-text {
+      margin-left: 2rem;
       font-size: 2rem;
       font-weight: bold;
       color: #fff;
       animation: fade-in 1s ease-in-out;
     }
+    .typewriter-text {
+      margin-left: 2rem;
+    }
+    .bttn-welcome{
+      margin-left: 6rem;
+    }
   }
   @media  only screen and (max-width: 688px) {
     .welcome-text {
+      margin-left: 2rem;
       font-size: 1.5rem;
       font-weight: bold;
       color: #fff;
       animation: fade-in 1s ease-in-out;
+    }
+    .typewriter-text {
+      margin-left: 2rem;
+    }
+    .bttn-welcome{
+      margin-left: 6rem;
     }
   }  

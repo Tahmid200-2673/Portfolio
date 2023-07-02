@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Teamwork Sports",
+        "description": "This website is a sports academics platform with an Admin dashboard for managing admins, instructors, and approving classes. Instructors can add classes and view enrolled students in approved classes. Students can select and pay for classes, view their enrolled classes, and access their payment history.",
+        "image1": "https://i.ibb.co/P47S8ps/Teamwork-Sports.png",
+        "image2": "https://i.ibb.co/LZqJgj8/Teamwork-Sports-1.png",
+        "image3": "https://i.ibb.co/s6QyQG1/Teamwork-Sports-2.png",
+        "liveSite": "https://sports-academies-badb8.web.app/",
+        "githubServer": "https://github.com/Tahmid200-2673/summer-camp-server_side",
+        "githubClient": "https://github.com/Tahmid200-2673/summer-camp-client-side",
+        "features": [
+            " Home page has navigation bar , banner , Popular Classes , Popular Instructors and Featured Activities(Extra Section) and footer",
+
+            " Instructors page shows all the instructors information",
+            
+            " Classes page shows all the classes information and you can select classes to enroll into classes after payment",
+            
+            " Dashboard page shows different activities for students,instructors and and admins",
+            
+            " In Registration and Login page user can sign up and login",
+            
+            " Error page shows 404 error",
+            
+            " In Featured Activities(Extra Section) I showed Framer-motion animation"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Toys Paradise",
+        "description": "This website is an Ecommerce platform specializing in the sale of toys. Users can log in to add, update, or delete toys from their inventory. Additionally, clients have the ability to browse and filter toys based on specific categories of interest.",
+        "image1": "https://i.ibb.co/hmhk5C5/Toys-Paradise.png",
+        "image2": "https://i.ibb.co/Pzq4JqH/Toys-Paradise-1.png",
+        "image3": "https://i.ibb.co/kJT4rfs/Toys-Paradise-2.png",
+        "liveSite": "https://toy-marketplace-4b1ae.web.app/",
+        "githubServer": "https://github.com/Tahmid200-2673/toy-marketplace-server-side",
+        "githubClient": "https://github.com/Tahmid200-2673/toy-marketplace-client-side",
+        "features": [
+            " Home page has Navbar , Banner , Gallery , Customer Support and Benefits Section , Shop By Category Section, Subscribe to Our Newsletter Section and Footer",
+
+" After Clicking into the View Details button in Shop By Category sections card user will be redirect to the single toy details",
+
+" In All Toys Route in navbar you will see the all toys added by users",
+
+" In My Toys Route in navbar you will see your added toys and also you can update and delete your existing toys",
+
+" In Add a Toys Route in navbar you will be able to add toys by category",
+
+" In Blog Route you will see all the given question and answers",
+
+" Login and Register Pages will help you login and register there is also google login option available",
+
+" Error Page will show 404 message"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Bengal Food",
+        "description": "This website is a comprehensive restaurant management system. It showcases detailed profiles of talented chefs. Customers can explore individual chef profiles, browse their exclusive recipes, and rate their culinary creations. Customers have the ability to add their favorite recipes to personalize their dining experience.",
+        "image1": "https://i.ibb.co/HqpWL2H/Bengal-Food.png",
+        "image2": "https://i.ibb.co/5FTS0rK/Bengal-Food-1.png",
+        "image3": "https://i.ibb.co/PMqM3ky/Bengal-Food-3.png",
+        "liveSite": "https://b7a10-chef-recipe-hunter-a7cc1.web.app/",
+        "githubServer": "https://github.com/Tahmid200-2673/chef-recipe-hunter-server-side",
+        "githubClient": "https://github.com/Tahmid200-2673/chef-recipe-hunter-client-side",
+        "features": [
+            " This website shows details about chefs ",
+            " On This website customer can see particular chefs recipes and their ratings",
+            " Customers can add their favorite recipe"
+        ]
+    }
+]

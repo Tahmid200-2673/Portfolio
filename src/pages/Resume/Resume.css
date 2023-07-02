@@ -12,4 +12,44 @@
   .content-container {
     margin: 20px;
   }
-  
+  .underline-button {
+    color: rgb(0, 119, 255);
+    text-decoration: underline;
+    cursor: pointer;
+}
+@media only screen and (min-width: 688px) and (max-width: 992px){
+  .resume-line {
+    margin: 20px 10px;
+  }
+
+  .content-margin {
+    margin: 20px 10px;
+  }
+
+  .content-container {
+    margin: 20px 10px;
+  }
+
+
+  .bttn-dwnld{
+    /* margin-right: 100rem; */
+  }
+}
+@media  only screen and (max-width: 688px) {
+  .resume-line {
+    margin: 20px 10px;
+  }
+
+  .content-margin {
+    margin: 20px 10px;
+  }
+
+  .content-container {
+    margin: 20px 10px;
+  }
+
+ 
+  .bttn-dwnld{
+
+  }
+}  

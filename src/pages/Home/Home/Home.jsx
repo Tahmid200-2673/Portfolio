@@ -112,6 +112,7 @@ import SkillsetSection from '../../Shared/SkillsetSection/SkillsetSection';
 import Services from '../../Shared/Services/Services';
 import {TypeAnimation} from 'react-type-animation';
 import './Home.css'
+import ContactForm from '../../Shared/Contact/ContactForm';
 
 const Home = () => {
   const handleResumeDownload = () => {
@@ -151,9 +152,9 @@ const Home = () => {
             </h1>
             <button
               onClick={handleResumeDownload}
-              className="bg-primary text-white font-semibold py-2 px-4 rounded hover:bg-primary"
+              className="bg-primary text-white font-semibold py-2 px-4 rounded hover:bg-primary  bttn-welcome"
             >
-              <FontAwesomeIcon icon={faDownload} className="mr-2" />
+              <FontAwesomeIcon icon={faDownload} className="mr-2 " />
               Download Resume
             </button>
           </div>
@@ -164,6 +165,9 @@ const Home = () => {
       </section>
       <SkillsetSection />
       <Services />
+      <section id="contact">
+      <ContactForm></ContactForm>
+      </section>
     </div>
   );
 };

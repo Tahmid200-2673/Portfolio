@@ -86,7 +86,7 @@
                                {/* <i className={`devicon-${skill.icon} colored`}></i>    */}
                                <img src={skill.icon} alt={skill.name} className={skill.name === 'Next.js' ? 'nextjs-icon' : ''}/>
                              </div>
-                             <p className="text-lg font-medium">{skill.name}</p>
+                             <p className="text-lg text-[#a6adba] font-medium">{skill.name}</p>
                          </div>
                      ))}
                  </div>
