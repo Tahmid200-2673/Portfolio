@@ -24,9 +24,8 @@ const Resume = () => {
       </div>
          {/* <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linkedin | Github | Portfolio</p> */}
          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/tahmid-ahmed-khan-87a519258/" className="underline-button">LinkedIn</a> |
-    <a href="https://github.com/Tahmid200-2673" className="underline-button">&nbsp;GitHub</a> 
-    {/* | */}
-    {/* <a href="https://www.yourportfolio.com" className="underline-button">&nbsp;Portfolio</a> */}</p>
+    <a href="https://github.com/Tahmid200-2673" className="underline-button">&nbsp;GitHub</a>  | 
+    <a href="https://tahmid-portfolio-e8779.web.app" className="underline-button">&nbsp;Portfolio</a> </p>
         <hr className='content-margin' />
       <div className="content-margin">
       <h2 className='text-xl '><b>Career Objective</b></h2>
